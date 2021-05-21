@@ -68,10 +68,6 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Eddie remembers meeting Michael, thinking that he was very mature for his age and extremely emotionally intelligent. His professionalism and "candor" was a "rallying cry in the chaos," bringing stakeholders and devs together so that the big problems could be solved. Eddie admires how Michael is always moving forward while still considering everyone's feelings. We joked that it must be something that he deals with on the teacher front all of the time. Maybe Michael is just good at managing us children at KiwiCo.
-        </p>
-
-        <p className={styles.description}>
           By the time Eddie met Dave, he felt he was very biased because everyone knew him and he was this already respected individual. Eddie was "very concerned" because everyone told Eddie that he was "more serious" than Kevin, so it led to some anxiety. We laugh now in retrospect, with how Eddie walked away from his first meetings with Dave that he "wasn't as bad as I thought it'd be." He'll remember all of their conversations about travel.
         </p>
 
