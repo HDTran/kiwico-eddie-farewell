@@ -138,10 +138,6 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Eddie thinks the biggest thing he'll remember about Cynthia is how she was always exploring ShipStation integration and sneaking around the tech area just to joke around with Artur because she came back to the company.
-        </p>
-
-        <p className={styles.description}>
           With Sam, Eddie was able to work closely to generate the revenue report that the company needed. The scope ballooned like crazy, with both of them navigating all of the crazy Magento numbers and questioning every column that had "total" in it. This understanding of how accounting and businesses recognize revenue "closed the loop" for Eddie in terms of understanding how big businesses work.
         </p>
 
