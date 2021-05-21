@@ -126,6 +126,10 @@ export default function Home() {
         <code className={styles.code}>For fighting the fires at KiwiCo.</code>
 
         <p className={styles.description}>
+          We see that Benze is already super analytical and moving on very complex problems. Hopefully he'll open up more and get used to the team over time.
+        </p>
+
+        <p className={styles.description}>
           When we hired Jeff, it was immediately obvious that we needed it. The leadership and push for more quality is something Eddie feels the team has always needed and it was good that it happened now.
         </p>
 
