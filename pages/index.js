@@ -87,10 +87,6 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Thinking about Hammer, Eddie remembers how he only met her for one single day in person. That was when we updated the real-life whiteboard, tardy pool, and then he never got to work with her in person again as COVID happened. We mused about how that was a tough way for her to enter the company, but she's flourished anyway. He feels that she is very much about her hobbies in Taylor Swift, travel, and all things Marvel.
-        </p>
-
-        <p className={styles.description}>
           Eddie thinks Erich is "such a goofball." Erich is always able to keep the atmosphere light by playing the clown, but it's immediately obvious that he's "really really smart." We talked about his engineering skills extend way beyond the stack and also into how teams work. Eddie agrees, thinking Erich is an "incredible person."
         </p>
 
