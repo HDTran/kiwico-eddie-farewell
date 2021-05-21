@@ -166,7 +166,7 @@ export default function Home() {
         </p>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/l0GN40EL1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <code className={styles.code}>For building the future of KiwiCo.</code>
+        <code className={styles.code}>For building the beginning of future of KiwiCo.</code>
         
         <p className={styles.description}>
           Eddie, I hope nothing was left unsaid. Know that KiwiCo and all of us here have been so lucky to have been in your company. The future is bright here from all of the dedication you put into the stack and team every single day. Thank you.
