@@ -173,7 +173,7 @@ export default function Home() {
         <code className={styles.code}>For building the new beginning of KiwiCo.</code>
         
         <p className={styles.description}>
-          Eddie, I hope nothing was left unsaid. Know that KiwiCo and all of us here have been so lucky to have been in your company. The future is bright now from all of the dedication you put into the stack and team every single day. Thank you.
+          Eddie, I hope nothing was left unsaid. Know that KiwiCo and all of us have been so lucky to have been in your company. Know that we saw your journey here. Know that we appreciated how you added your sound to all of ours. The future is bright now from all of the dedication you put to the team and stack every single day. Thank you.
         </p>
       </main>
 
