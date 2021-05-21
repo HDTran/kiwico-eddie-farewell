@@ -72,7 +72,7 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Eddie remembers interviewing Sabrina and she came across as very well-prepared, having answers to every question that he had. She has been very friendly and he would have wanted to work more with her to move some big stories. We discussed how the pods will need to randomize and shuffle members in the future so that everyone got to work with everyone else so that they're all given opportunities to work with great people.
+          Eddie remembers interviewing Sabrina and she came across as very well-prepared, having answers to every question that he had. She has been very friendly and he would have wanted to work more with her to move some big stories. We discussed how the pods will need to randomize and shuffle members in the future so that everyone got to work with everyone else so that they're all given opportunities to be with all of the great people.
         </p>
 
         <iframe className={styles.youtube} width="560" height="315" src="https://www.youtube.com/embed/F4neLJQC1_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
