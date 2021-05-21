@@ -53,10 +53,6 @@ export default function Home() {
         </p>
 
         <p className={styles.description}>
-          Eddie's first impression of Rohan is that he seemed more like a PM than a developer, talking about the product rather than the nuances of the technology or implementation. After joining, Eddie saw he was a lot more hands-on than other developers and appreciated all of the pair programming, pulling everything he needed to learn. A memory he'll always remember about Rohan was how immediately friendly he was, inviting others to his place for a celebration. But the most unforgettable memories he'll always have is all of the hard times getting through the cart and checkout re-platform at night. Those won't ever be replaced and it's those hard times that bring people together. I agreed with him and I still regret not being able to do everything in person with everyone--drinks, games, and all for the Adyen-25 deadline. Darn COVID-19.
-        </p>
-
-        <p className={styles.description}>
           Eddie thinks he's always going to remember Emily for her sarcasm. He felt like she was playful with people in her own way, bringing an "air of levity" to all of the meetings. Eddie doesn't remember the exact instances, but he remembers constantly thinking "wow, she said that" and chuckling inside plenty of times. We both know how she'll move from topic-to-topic by being both dismissive and caring in the same moment. We're lucky to have her make everything smooth and fun.
         </p>
 
