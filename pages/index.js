@@ -45,10 +45,6 @@ export default function Home() {
         <code className={styles.code}>For building cart and checkout with everyone.</code>
 
         <p className={styles.description}>
-          When Eddie met Linnie, his initial impression was that "she speaks really really fast." He never met anyone who spoke that fast and his brain could not process it. It took a few months of intense focus and training just to follow her and he thinks it's also because she slowed down "over time" for him. He'll always remember how passionate she is about the things she loves, whether that was with Neopets or her art. This allowed Eddie to open up over time as well and not shy away from sharing his interests, something he had to learn to be more open with. I smiled, hoping everyone finds people who help us open up like that.
-        </p>
-
-        <p className={styles.description}>
           Eddie remembered it being an awkward situation when he met Yuli because he wasn't sure what to test her on in the interview! But he'll be glad how she joined the team and immediately changed its' personality and culture, providing a good balance to the workhorse nature of Artur and Jyoti. A moment he remembers sharply is a sunshine committee event is with the Claw Machine. "She had a vision for what she wants and will execute it amazingly."
         </p>
 
