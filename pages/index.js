@@ -45,7 +45,7 @@ export default function Home() {
         <code className={styles.code}>For building cart and checkout with everyone.</code>
 
         <p className={styles.description}>
-          Eddie remembered it being an awkward situation when he met Yuli because he wasn't sure what to test her on in the interview! But he'll be glad how she joined the team and immediately changed its' personality and culture, providing a good balance to the workhorse nature of Artur and Jyoti. A moment he remembers sharply is a sunshine committee event is with the Claw Machine. "She had a vision for what she wants and will execute it amazingly."
+          Eddie remembered it being an awkward situation when he met Yuli because he wasn't sure what to test her on in the interview! But he's glad how she joined the team and immediately changed its' personality and culture, providing a good balance to the workhorse nature of Artur and Jyoti. A moment he remembers sharply is a sunshine committee event is with the Claw Machine. "She had a vision for what she wants and will execute it amazingly."
         </p>
 
         <p className={styles.description}>
