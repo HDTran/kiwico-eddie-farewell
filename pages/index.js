@@ -123,7 +123,7 @@ export default function Home() {
         </p>
 
         <iframe width="560" height="315" src="https://www.youtube.com/embed/fmI_Ndrxy14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <code className={styles.code}>For building the future of KiwiCo.</code>
+        <code className={styles.code}>For fighting the fires at KiwiCo.</code>
 
         <p className={styles.description}>
           When we hired Jeff, it was immediately obvious that we needed it. The leadership and push for more quality is something Eddie feels the team has always needed and it was good that it happened now.
@@ -164,6 +164,9 @@ export default function Home() {
         <p className={styles.description}>
           Eddie remembers meeting Sandra for the first time and how it was a shock given how everyone before was so positive. Sandra proved to be "stone-cold with no expression," giving Eddie no "tone" or "inflections" to read the situation. He remembers the question she asked him that froze him, "Do you consider yourself lucky?" He answered that he does consider all of his situations he's been in throughout his entire life, being given opportunities and mentors. We laughed thinking how it must be in Sandra's nature to give fun zingers. Sorry, Eddie, I had to include all of your exact words above to get us both in trouble.
         </p>
+
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/l0GN40EL1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <code className={styles.code}>For building the future of KiwiCo.</code>
         
         <p className={styles.description}>
           Eddie, I hope nothing was left unsaid. Know that KiwiCo and all of us here have been so lucky to have been in your company. The future is bright here from all of the dedication you put into the stack and team every single day. Thank you.
