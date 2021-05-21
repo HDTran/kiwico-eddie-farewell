@@ -41,7 +41,7 @@ export default function Home() {
           When Eddie met Linnie, his initial impression was that "she speaks really really fast." He never met anyone who spoke that fast and his brain could not process it. It took a few months of intense focus and training just to follow her and he thinks it's also because she slowed down "over time" for him. He'll always remember how passionate she is about the things she loves, whether that was with Neopets or her art. This allowed Eddie to open up over time as well and not shy away from sharing his interests, something he had to learn to be more open with. I smiled, hoping everyone finds people who help us open up like that.
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/QsuYZ-1ZP00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe className={styles.youtube} width="560" height="315" src="https://www.youtube.com/embed/QsuYZ-1ZP00" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <code className={styles.code}>For building cart and checkout with everyone.</code>
 
         <p className={styles.description}>
@@ -64,7 +64,7 @@ export default function Home() {
           Eddie's first impression of Rohan is that he seemed more like a PM than a developer, talking about the product rather than the nuances of the technology or implementation. After joining, Eddie saw he was a lot more hands-on than other developers and appreciated all of the pair programming, pulling everything he needed to learn. A memory he'll always remember about Rohan was how immediately friendly he was, inviting others to his place for a celebration. But the most unforgettable memories he'll always have is all of the hard times getting through the cart and checkout re-platform at night. Those won't ever be replaced and it's those hard times that bring people together. I agreed with him and I still regret not being able to do everything in person with everyone--drinks, games, and all for the Adyen-25 deadline. Darn COVID-19.
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/S4BUbIEtLdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe className={styles.youtube} width="560" height="315" src="https://www.youtube.com/embed/S4BUbIEtLdA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <code className={styles.code}>For exporting cart and checkout back into Magento.</code>
 
         <p className={styles.description}>
@@ -87,7 +87,7 @@ export default function Home() {
           Eddie remembers interviewing Sabrina and she came across as very well-prepared, having answers to every question that he had. She has been very friendly and he would have wanted to work more with her to move some big stories. We discussed how the pods will need to randomize and shuffle members in the future so that everyone got to work with everyone else so that they're all given opportunities to work with great people.
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/F4neLJQC1_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe className={styles.youtube} width="560" height="315" src="https://www.youtube.com/embed/F4neLJQC1_E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <code className={styles.code}>For building Accounts with everyone.</code>
 
         <p className={styles.description}>
@@ -122,7 +122,7 @@ export default function Home() {
           I told Eddie about how Chris admired where he got to on the team, coming from HackReactor and everything. I asked him what his advice was to others who want to become seniors on the stack? He gave me the simple answer of "keep learning." I thought that was profound until he added that you should have a "sense of dread of not pulling your own weight" because "imposter syndrome" is "apparently" healthy. We laughed. He does say that you should prioritize what to learn on the stack and take initiative where you need to by supplementing it with courses. He knew he was never going to not be able to tackle Magento, so he took courses to make sure he learned it.
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/fmI_Ndrxy14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe className={styles.youtube} width="560" height="315" src="https://www.youtube.com/embed/fmI_Ndrxy14" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <code className={styles.code}>For fighting the fires at KiwiCo.</code>
 
         <p className={styles.description}>
@@ -169,11 +169,11 @@ export default function Home() {
           Eddie remembers meeting Sandra for the first time and how it was a shock given how everyone before was so positive. Sandra proved to be "stone-cold with no expression," giving Eddie no "tone" or "inflections" to read the situation. He remembers the question she asked him that froze him, "Do you consider yourself lucky?" He answered that he does consider all of his situations he's been in throughout his entire life, being given opportunities and mentors. We laughed thinking how it must be in Sandra's nature to give fun zingers. Sorry, Eddie, I had to include all of your exact words above to get us both in trouble.
         </p>
 
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/l0GN40EL1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <code className={styles.code}>For building the beginning of the future of KiwiCo.</code>
+        <iframe className={styles.youtube} width="560" height="315" src="https://www.youtube.com/embed/l0GN40EL1VU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <code className={styles.code}>For building the new beginning of KiwiCo.</code>
         
         <p className={styles.description}>
-          Eddie, I hope nothing was left unsaid. Know that KiwiCo and all of us here have been so lucky to have been in your company. The future is bright here from all of the dedication you put into the stack and team every single day. Thank you.
+          Eddie, I hope nothing was left unsaid. Know that KiwiCo and all of us here have been so lucky to have been in your company. The future is bright now from all of the dedication you put into the stack and team every single day. Thank you.
         </p>
       </main>
 
